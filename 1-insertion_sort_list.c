@@ -7,8 +7,16 @@
  */
 insertion_sort_list(listint_t **list)
 {
+    int i;
+    int j;
 
-
+    if (list == NULL)
+    return;
 
     
+
+
+
+
+
 }
